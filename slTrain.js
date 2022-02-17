@@ -67,10 +67,10 @@ var after_response_t = function(info){
 //General Instructions
 var sl_instruct = {
 	type: 'html-keyboard-response',
-	stimulus: '<p>In this part of the study, you will hear sounds similar to those you just heard.</p>'+
+	stimulus: '<p>In this part of the study, you will hear sounds similar to the heavily manipulated sounds you just heard.</p>'+
 			  '<p>Please focus on these sounds, as you may be asked questions about them later.</p>'+
-			  '<p>Occasionally, the sounds will pause for up to two seconds. When this happens, please press SPACEBAR as quickly as you can.</br>This helps ensure that you are paying attention to the sounds.</p>'+
-			  '<p>This part of the study will take about 12 minutes to complete, and you will be given the opportunity to take a couple of short breaks every few minutes.</p>'+
+			  '<p>Occasionally, the sounds will pause for up to four seconds. When this happens, please press SPACEBAR as quickly as you can.</br>This helps ensure that you are paying attention to the sounds.</p>'+
+			  '<p>This part of the study will take about 4 minutes to complete, and you will be given the opportunity to take a couple of short breaks every few minutes.</p>'+
 			  '<p><strong>Press SPACEBAR to begin</strong></p>',
 	choices: [' ']
 };
