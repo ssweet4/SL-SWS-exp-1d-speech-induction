@@ -70,7 +70,7 @@ var sl_instruct = {
 	stimulus: '<p>In this part of the study, you will hear sounds similar to the heavily manipulated sounds you just heard.</p>'+
 			  '<p>Please focus on these sounds, as you may be asked questions about them later.</p>'+
 			  '<p>Occasionally, the sounds will pause for up to four seconds. When this happens, please press SPACEBAR as quickly as you can.</br>This helps ensure that you are paying attention to the sounds.</p>'+
-			  '<p>This part of the study will take about 4 minutes to complete, and you will be given the opportunity to take a couple of short breaks every few minutes.</p>'+
+			  '<p>This part of the study will take about 4 minutes to complete.</p>'+
 			  '<p><strong>Press SPACEBAR to begin</strong></p>',
 	choices: [' ']
 };
